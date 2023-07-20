@@ -3,8 +3,8 @@
 a estas variáveis. Utilize os seguintes identificadores e tipos para estas variáveis
 
 1. Identificador "x" deverá ter tipo int
-2. Identificador "x" deverá ter tipo string
-3. Identificador "x" deverá ter tipo bool
+2. Identificador "y" deverá ter tipo string
+3. Identificador "z" deverá ter tipo bool
 Na função main:
 Demonstre cada identificador
 O compilador atribuiu valores para essas variáveis. Como esses valores se chamam? */
